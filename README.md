@@ -1,4 +1,4 @@
-# Main
+# Main remove-last-commit
 # STS Asset Panda Gateway
 
 This project is an anti-corruption layer for integrating with Asset Panda. It adapts Asset Panda objects to STS's core
